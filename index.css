@@ -26,12 +26,13 @@ span{
     background-color:rgb(233, 233, 233) ;
 }
 .logo form button{
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
     border: none;
     border-radius: 50%;
-    background-color:rgb(233, 233, 233) ;
-    transform: translate(-140%,30%);
+    background-color:rgb(38, 154, 38);
+    position: relative;
+    left:-15%;
 }
 form button img{
     height: 30px;
